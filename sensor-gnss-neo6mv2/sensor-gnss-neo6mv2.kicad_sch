@@ -1574,7 +1574,7 @@
 		(uuid "8e6ea1a0-e008-4c86-8a3f-c33f408cadf4")
 	)
 	(junction
-		(at 158.75 146.05)
+		(at 191.77 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b979c828-01ed-42b1-86bc-e56aaa6ddf74")
@@ -1584,16 +1584,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cdd5f992-704a-4275-b34b-d59a09f96eeb")
-	)
-	(wire
-		(pts
-			(xy 130.81 151.13) (xy 138.43 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d2eea44-c7bb-40a7-8e92-41a82e50b0ee")
 	)
 	(wire
 		(pts
@@ -1617,16 +1607,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 143.51) (xy 152.4 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18fe64fc-b743-458d-9a45-a0ea290ce939")
-	)
-	(wire
-		(pts
 			(xy 138.43 120.65) (xy 135.89 120.65)
 		)
 		(stroke
@@ -1634,16 +1614,6 @@
 			(type default)
 		)
 		(uuid "19dbb321-f788-4cea-98f1-e8329cdb08ea")
-	)
-	(wire
-		(pts
-			(xy 148.59 143.51) (xy 152.4 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ae96056-b15f-4144-81d3-d292ba88a0b5")
 	)
 	(wire
 		(pts
@@ -1667,7 +1637,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 140.97) (xy 158.75 146.05)
+			(xy 191.77 110.49) (xy 191.77 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1697,17 +1667,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 120.65) (xy 148.59 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "403dde00-7799-4418-8831-3c5025ddad52")
-	)
-	(wire
-		(pts
-			(xy 134.62 143.51) (xy 138.43 143.51)
+			(xy 167.64 113.03) (xy 171.45 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1767,27 +1727,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 133.35) (xy 133.35 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5dbe84ad-1035-43bc-9057-afa48b8b871b")
-	)
-	(wire
-		(pts
-			(xy 130.81 130.81) (xy 148.59 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65d776db-3d7f-4112-8827-66339680792c")
-	)
-	(wire
-		(pts
-			(xy 148.59 146.05) (xy 158.75 146.05)
+			(xy 181.61 115.57) (xy 191.77 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1867,7 +1807,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 146.05) (xy 158.75 151.13)
+			(xy 191.77 115.57) (xy 191.77 120.65)
 		)
 		(stroke
 			(width 0)
@@ -1877,13 +1817,13 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 133.35) (xy 133.35 133.35)
+			(xy 148.59 120.65) (xy 171.45 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b59cbec6-7743-41ad-b178-b22ef8fb02eb")
+		(uuid "ab596800-5663-4063-b365-3911c858fa71")
 	)
 	(wire
 		(pts
@@ -1927,16 +1867,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 130.81) (xy 130.81 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2b9aeaa-bb37-4f85-87d6-cdd3c7a63db2")
-	)
-	(wire
-		(pts
 			(xy 193.04 77.47) (xy 193.04 76.2)
 		)
 		(stroke
@@ -1947,7 +1877,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 156.21) (xy 134.62 143.51)
+			(xy 167.64 125.73) (xy 167.64 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1967,7 +1897,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 151.13) (xy 148.59 151.13)
+			(xy 191.77 120.65) (xy 181.61 120.65)
 		)
 		(stroke
 			(width 0)
@@ -1984,16 +1914,6 @@
 			(type default)
 		)
 		(uuid "e925a42c-cf60-4902-940a-ecd6ab9743a2")
-	)
-	(wire
-		(pts
-			(xy 133.35 118.11) (xy 138.43 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea4386c7-800b-4666-98d0-e01a827b5cd5")
 	)
 	(wire
 		(pts
@@ -2024,6 +1944,26 @@
 			(type default)
 		)
 		(uuid "ff30e921-a106-4fa2-b15d-69b949c56e5a")
+	)
+	(label "Data"
+		(at 157.48 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b8e7a5e-b9cb-4e4b-9720-f0c6ab35e114")
+	)
+	(label "PWR VCC"
+		(at 93.98 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d3a3682-d01f-4155-9a16-628d0042e191")
 	)
 	(symbol
 		(lib_id "C42379197:HX PM2.54-1X4P TP-YQ")
@@ -2125,7 +2065,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5160786"
+		(property "LCSC" "C42379197"
 			(at 143.51 119.38 0)
 			(effects
 				(font
@@ -2157,7 +2097,7 @@
 	)
 	(symbol
 		(lib_id "C3975149:PM254-2-04-S-8.5")
-		(at 143.51 147.32 0)
+		(at 176.53 116.84 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2167,7 +2107,7 @@
 		(fields_autoplaced yes)
 		(uuid "298ed19b-c720-4c30-b869-a52415160e79")
 		(property "Reference" "J2"
-			(at 143.51 135.89 0)
+			(at 176.53 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2175,7 +2115,7 @@
 			)
 		)
 		(property "Value" "ESP-01S"
-			(at 143.51 138.43 0)
+			(at 176.53 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2183,7 +2123,7 @@
 			)
 		)
 		(property "Footprint" "C3975149:HDR-SMD_8P-P2.54-V-F-R2-C4-S7.1"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2192,7 +2132,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230609/7C6F8D8E301C6BBC8F19D55951C36597.pdf"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2201,7 +2141,7 @@
 			)
 		)
 		(property "Description" "Holes Structure:2x4P Pitch:2.54mm Row Spacing:2.54mm Circular Hole / Square Hole:方孔 Mounting Type:Brick nogging Number of Rows:双排 Number of Holes:8P Current Rating (Max):3A Holes Direction:Top Insulation Height:8.5mm Contact Material:Copper Alloy Operatin"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2210,7 +2150,7 @@
 			)
 		)
 		(property "LCSC" "C3975149"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2219,7 +2159,7 @@
 			)
 		)
 		(property "Mfg Part" "PM254-2-04-S-8.5"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2228,7 +2168,7 @@
 			)
 		)
 		(property "Manufacturer Part" "PM254-2-04-S-8.5"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2237,7 +2177,7 @@
 			)
 		)
 		(property "Manufacturer" "HCTL(华灿天禄)"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2246,7 +2186,7 @@
 			)
 		)
 		(property "Supplier Part" "C3975149"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2255,7 +2195,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2264,7 +2204,7 @@
 			)
 		)
 		(property "LCSC Part Name" "2x4P 间距:2.54mm 立贴"
-			(at 143.51 147.32 0)
+			(at 176.53 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2413,6 +2353,15 @@
 			)
 		)
 		(property "LCSC Part Name" "S7116-300A"
+			(at 102.87 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5174649"
 			(at 102.87 77.47 0)
 			(effects
 				(font
@@ -3004,7 +2953,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 158.75 140.97 0)
+		(at 191.77 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3013,7 +2962,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1a6459c-7a9b-4f2c-a60f-c856e16a0b6c")
 		(property "Reference" "#PWR0107"
-			(at 158.75 144.78 0)
+			(at 191.77 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3022,7 +2971,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 158.75 135.89 0)
+			(at 191.77 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3030,7 +2979,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 140.97 0)
+			(at 191.77 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3039,7 +2988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 140.97 0)
+			(at 191.77 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3048,7 +2997,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 158.75 140.97 0)
+			(at 191.77 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3070,7 +3019,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 134.62 156.21 0)
+		(at 167.64 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3079,7 +3028,7 @@
 		(fields_autoplaced yes)
 		(uuid "c52d46f0-9687-4892-915f-ee35a6124c5b")
 		(property "Reference" "#PWR0104"
-			(at 134.62 162.56 0)
+			(at 167.64 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3088,7 +3037,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 134.62 160.02 0)
+			(at 167.64 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3097,7 +3046,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 156.21 0)
+			(at 167.64 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3106,7 +3055,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 156.21 0)
+			(at 167.64 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3115,7 +3064,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 156.21 0)
+			(at 167.64 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
