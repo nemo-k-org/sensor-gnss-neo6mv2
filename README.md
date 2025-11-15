@@ -9,6 +9,15 @@ The board sends GNSS information to Signal K server.
 
 The board is designed to be used with ESP-01 microcontroller running Nemo-K firmware.
 
+To build you need
+ * The PCB
+ * ESP-01S
+ * NEO 6M GNSS breakout board
+ * Four plastic hexagon motherboard spacers (length 8 mm, thread M2.5)
+ * Eight M2.5 screws (length max 4 mm)
+ * For external GPS antenna: pigtail from [Hirose U.FL](https://en.wikipedia.org/wiki/Hirose_U.FL) to typically
+   SMA male/female
+
 ## Content
 
 The repository contains schematics and PCB in KiCad 8.0 format. The footprint properties contains LCSC part numbers
@@ -20,8 +29,13 @@ The Nemo-K project is not affiliated or sponsored by JLCPCB. The project does no
 
 ## Changelog
 
-* At the moment there is no schematics or PCB layout.
-* At the moment there is firmware.
+2025-11-15 v3 - Revised after 1st proto
+ * Changed power connector footprint to LCSC C5349550
+ * Adjusted holes with GPS breakout board
+ * Added test pads for voltage
+
+2025-10-26 v2 - First prototype
+ * First prototype was sent to production
 
 ## Copyright and License
 

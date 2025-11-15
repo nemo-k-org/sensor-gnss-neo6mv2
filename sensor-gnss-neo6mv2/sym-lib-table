@@ -5,4 +5,5 @@
   (lib (name "C3975149")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C3975149.elibz")(options "")(descr ""))
   (lib (name "C5174649")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C5174649.elibz")(options "")(descr ""))
   (lib (name "C42379197")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C42379197.elibz")(options "")(descr ""))
+  (lib (name "C5349550")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/../footprints/C5349550.elibz")(options "")(descr ""))
 )
